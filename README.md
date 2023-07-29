@@ -23,7 +23,6 @@
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
