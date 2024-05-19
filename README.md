@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hey!;My+name+is+Justin;I'm+a+Web+Developer)](https://git.io/typing-svg)
 
 ### 💻 Current project
-[my-scraper](https://github.com/mountainhokie/my-scraper) : Web Scraping Tool
+[markdown-readme-generator]([https://github.com/mountainhokie/my-scraper](https://github.com/mountainhokie/markdown-readme-generator)) : Markdown README Generator
 
 <hr />
 
